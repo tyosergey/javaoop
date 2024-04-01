@@ -16,6 +16,11 @@ public class Human extends Actor{
     }
 
     @Override
+    public String toString() {
+        return name;
+    }
+
+    @Override
     public void setTakeOrder() {
         isTakeOrder = true;
     }
