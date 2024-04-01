@@ -4,25 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="372df889-75e9-4e67-a258-c090e6380282" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lectures/lecture1/Point2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lectures/lecture1/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar1/BottleWater.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar1/HotDrinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar1/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar1/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar1/Questions.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar1/Tasks.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar1/VendingMachine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar1/VendingMachineHotDrinks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar1/VendingMachineWater.java" afterDir="false" />
+    <list default="true" id="372df889-75e9-4e67-a258-c090e6380282" name="Changes" comment="First seminar + Homework completed (Task to do Override for getProduct method is not completed because I don't get it how). I create file &quot;Questions&quot; and I would appreciate if you answer me.">
+      <change afterPath="$PROJECT_DIR$/src/main/java/lectures/lecture2/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar2/Actor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar2/ActorBehavoir.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar2/Human.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar2/Market.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar2/MarketBehaviour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar2/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar2/QueueBehaviour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,16 +39,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Program.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Program.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -74,6 +68,19 @@
       <option name="presentableId" value="Default" />
       <updated>1711506458367</updated>
     </task>
+    <task id="LOCAL-00001" summary="First seminar + Homework completed (Task to do Override for getProduct method is not completed because I don't get it how). I create file &quot;Questions&quot; and I would appreciate if you answer me.">
+      <option name="closed" value="true" />
+      <created>1711618877342</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1711618877342</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First seminar + Homework completed (Task to do Override for getProduct method is not completed because I don't get it how). I create file &quot;Questions&quot; and I would appreciate if you answer me." />
+    <option name="LAST_COMMIT_MESSAGE" value="First seminar + Homework completed (Task to do Override for getProduct method is not completed because I don't get it how). I create file &quot;Questions&quot; and I would appreciate if you answer me." />
   </component>
 </project>
