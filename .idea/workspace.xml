@@ -5,33 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="372df889-75e9-4e67-a258-c090e6380282" name="Changes" comment=":)">
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/homework/Group.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/homework/GroupIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/homework/Steam.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/homework/SteamComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar5/controller/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar5/service/DataService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar5/view/StudentView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar6/LightBulb/Device.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar6/LightBulb/LightBulb.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar6/LightBulb/Switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar6/LightBulb/TurnOnOff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar6/ShapeArea/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar6/ShapeArea/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar6/ShapeArea/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar6/ShapeArea/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar4/homework/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar4/homework/Library.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/seminars/seminar3/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/lesson/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/seminars/seminar3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/lesson/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/seminars/seminar3/Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/lesson/Stream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/seminars/seminar3/StreamIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/lesson/StreamIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/seminars/seminar3/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/lesson/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/seminars/seminar3/StudentComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/lesson/StudentComparator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/seminars/seminar3/StudentGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/lesson/StudentGroup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/seminars/seminar3/StudentGroupIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/lesson/StudentGroupIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/seminars/seminar3/StudentGroupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/lesson/StudentGroupService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/seminars/seminar3/Tasks.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/lesson/Tasks.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -211,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712818279848</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary=":)">
+      <option name="closed" value="true" />
+      <created>1713227417348</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1713227417348</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
