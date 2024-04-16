@@ -1,5 +1,4 @@
-package seminars.seminar3;
-import java.util.ArrayList;
+package seminars.seminar3.lesson;
 import java.util.Iterator;
 import java.util.List;
 

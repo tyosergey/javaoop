@@ -4,40 +4,34 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="372df889-75e9-4e67-a258-c090e6380282" name="Changes" comment="Second Seminar's homework is completed.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/lectures/lecture3/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lectures/lecture3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lectures/lecture5/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lectures/lecture5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lectures/lecture5/People.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/lectures/lecture5/View.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/Controller.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/Stream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/StreamIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/StudentComparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/StudentGroup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/StudentGroupIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/StudentGroupService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/Tasks.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar4/Bank/BankAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar4/Bank/BankCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar4/Bank/Dollar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar4/Bank/Exchange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar4/Bank/Program.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar4/Bank/Ruble.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar4/Bank/Tasks1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar4/VetClinic/Animal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar4/VetClinic/Cat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar4/VetClinic/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar4/VetClinic/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar4/VetClinic/Tasks.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar4/VetClinic/VetClinic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar5/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar5/model/Teacher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar5/model/User.java" afterDir="false" />
+    <list default="true" id="372df889-75e9-4e67-a258-c090e6380282" name="Changes" comment=":)">
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/homework/Group.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/homework/GroupIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/homework/Steam.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/homework/SteamComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar5/controller/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar5/service/DataService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar5/view/StudentView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar6/LightBulb/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar6/LightBulb/LightBulb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar6/LightBulb/Switch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar6/LightBulb/TurnOnOff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar6/ShapeArea/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar6/ShapeArea/Program.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar6/ShapeArea/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar6/ShapeArea/Shape.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminars/seminar3/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/lesson/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminars/seminar3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/lesson/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminars/seminar3/Stream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/lesson/Stream.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminars/seminar3/StreamIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/lesson/StreamIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminars/seminar3/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/lesson/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminars/seminar3/StudentComparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/lesson/StudentComparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminars/seminar3/StudentGroup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/lesson/StudentGroup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminars/seminar3/StudentGroupIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/lesson/StudentGroupIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminars/seminar3/StudentGroupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/lesson/StudentGroupService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/seminars/seminar3/Tasks.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/seminars/seminar3/lesson/Tasks.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +41,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -63,28 +58,30 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Program.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lectures.lecture3.Program.executor&quot;: &quot;Run&quot;,
-    &quot;Application.lectures.lecture5.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.seminars.seminar3.Program.executor&quot;: &quot;Run&quot;,
-    &quot;Application.seminars.seminar4.Bank.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.seminars.seminar4.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.seminars.seminar4.VetClinic.Main.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Application.Program.executor": "Run",
+    "Application.lectures.lecture3.Program.executor": "Run",
+    "Application.lectures.lecture5.Main.executor": "Run",
+    "Application.seminars.seminar3.Program.executor": "Run",
+    "Application.seminars.seminar4.Bank.Main.executor": "Run",
+    "Application.seminars.seminar4.Main.executor": "Run",
+    "Application.seminars.seminar4.VetClinic.Main.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Sergey\IdeaProjects\javaoop\src\main\java\seminars\seminar3\lesson" />
       <recent name="C:\Users\Sergey\IdeaProjects\javaoop\src\main\java\seminars\seminar4\VetClinic" />
       <recent name="C:\Users\Sergey\IdeaProjects\javaoop\src\main\java\seminars\seminar4\Bank" />
       <recent name="C:\Users\Sergey\IdeaProjects\javaoop\src\main\java\seminars\seminar4" />
@@ -206,13 +203,22 @@
       <option name="project" value="LOCAL" />
       <updated>1711992503831</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary=":)">
+      <option name="closed" value="true" />
+      <created>1712818279848</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712818279848</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First seminar + Homework completed (Task to do Override for getProduct method is not completed because I don't get it how). I create file &quot;Questions&quot; and I would appreciate if you answer me." />
     <MESSAGE value="Second Seminar is completed." />
     <MESSAGE value="Second Seminar's homework is completed." />
-    <option name="LAST_COMMIT_MESSAGE" value="Second Seminar's homework is completed." />
+    <MESSAGE value=":)" />
+    <option name="LAST_COMMIT_MESSAGE" value=":)" />
   </component>
 </project>
